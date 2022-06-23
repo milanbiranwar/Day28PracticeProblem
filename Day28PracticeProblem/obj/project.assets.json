@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\milan\\source\\repos\\Day28PracticeProblem\\Day28PracticeProblem\\Day28PracticeProblem.csproj",
+      "projectUniqueName": "D:\\repos137Batch\\Day28PracticeProblem\\Day28PracticeProblem\\Day28PracticeProblem.csproj",
       "projectName": "Day28PracticeProblem",
-      "projectPath": "C:\\Users\\milan\\source\\repos\\Day28PracticeProblem\\Day28PracticeProblem\\Day28PracticeProblem.csproj",
+      "projectPath": "D:\\repos137Batch\\Day28PracticeProblem\\Day28PracticeProblem\\Day28PracticeProblem.csproj",
       "packagesPath": "C:\\Users\\milan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\milan\\source\\repos\\Day28PracticeProblem\\Day28PracticeProblem\\obj\\",
+      "outputPath": "D:\\repos137Batch\\Day28PracticeProblem\\Day28PracticeProblem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\milan\\AppData\\Roaming\\NuGet\\NuGet.Config",
